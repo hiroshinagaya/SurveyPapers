@@ -5,6 +5,7 @@ webデータ分析，主にテキストマイニングに関する論文を読�
 - [International World Wide Web Conference(WWW)](https://www.myhuiban.com/conference/137?lang=ja)
 - [IEEE/WIC/ACM International Conference on Web Intelligence(WI)](https://webintelligence2019.com/)
 - [International Joint Conferences on Artificial Intelligence(IJCAI)](https://www.ijcai.org)
+- [所属研究室の過去の取り組み](http://www.panda.sys.t.u-tokyo.ac.jp/contributions.html)
 - その他，WEB分析やテキストマイニングに関する論文
 
 # フォーマット
