@@ -1,4 +1,4 @@
-# survey_web_analytics
+# survey_web_analytsis
 webデータ分析，主にテキストマイニングに関する論文を読んでいく．
 
 # 読んでいく会議・ジャーナル
