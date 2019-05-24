@@ -1,5 +1,7 @@
 # survey_web_analytsis
 webデータ分析，主にテキストマイニングに関する論文を読んでいく．
+基本的に，精読を目的とせず，概観をつかんで自分のポジションを探り，自分の研究に役立てる．
+（引用，発展させる場合は，あとで精読する．）
 
 # 読んでいく会議・ジャーナル
 - [International World Wide Web Conference(WWW)](https://www.myhuiban.com/conference/137?lang=ja)
